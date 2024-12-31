@@ -16,8 +16,8 @@ An automated smart contract security audit system powered by AI agents (OpenAI G
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Teoslaf/Multi-Agent-Audit-Swarm
-cd smart-contract-audit
+git clone https://github.com/Teoslaf/Multi-Agent-Audit-Swarm.git swarm
+cd swarm
 ```
 
 2. Create and activate a virtual environment:
